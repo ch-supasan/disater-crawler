@@ -1,0 +1,600 @@
+EQ
+Sun, 17 Nov 2013 09:04:55 GMT
+Green earthquake alert (Magnitude 7.8M, Depth:10km) in Antarctica 17/11/2013 09:04 UTC, No people within 100km.
+-60.3
+-46.36
+1012261
+TC
+Sun, 03 Nov 2013 06:00:00 GMT
+Green alert for tropical cyclone THIRTY-13. Population affected by Category 1 (120 km/h) wind speeds or higher is 0.
+10.7999999995609
+80.2999999995609
+41057
+EQ
+Sat, 16 Nov 2013 03:34:31 GMT
+Green earthquake alert (Magnitude 6.8M, Depth:9.98km) in Antarctica 16/11/2013 03:34 UTC, No people within 100km.
+-60.21
+-47.11
+1012142
+TC
+Thu, 14 Nov 2013 12:00:00 GMT
+Green alert for tropical cyclone PODUL-13. Population affected by Category 1 (120 km/h) wind speeds or higher is 0.
+11.8999999997814
+108.899999999781
+41273
+EQ
+Tue, 12 Nov 2013 07:03:51 GMT
+Green earthquake alert (Magnitude 6.6M, Depth:47.17km) in Russia 12/11/2013 07:03 UTC, About 1173 people within 100km.
+54.68
+162.29
+1011765
+TC
+Mon, 04 Nov 2013 00:00:00 GMT
+Red alert for tropical cyclone HAIYAN-13. Population affected by Category 1 (120 km/h) wind speeds or higher is 13.7 million.
+21.7999999995609
+107.200000000439
+41058
+TC
+Fri, 08 Nov 2013 18:00:00 GMT
+Green alert for tropical cyclone THREE-13. Population affected by Category 1 (120 km/h) wind speeds or higher is 0.
+8.39999999978136
+50
+41145
+TC
+Sun, 03 Nov 2013 09:00:00 GMT
+Green alert for tropical cyclone SONIA-13. Population affected by Category 1 (120 km/h) wind speeds or higher is 0.
+24.6000000002186
+-107.299999999561
+41011
+TC
+Tue, 29 Oct 2013 18:00:00 GMT
+Orange alert for tropical cyclone KROSA-13. Population affected by Category 1 (120 km/h) wind speeds or higher is 1 million.
+18.6000000002186
+112.299999999561
+40957
+EQ
+Thu, 31 Oct 2013 23:03:59 GMT
+Green earthquake alert (Magnitude 6.6M, Depth:29km) in Chile 31/10/2013 23:03 UTC, 537631 people within 100km.
+-30.3
+-71.56
+1010688
+TC
+Sun, 20 Oct 2013 09:00:00 GMT
+Green alert for tropical cyclone RAYMOND-13. Population affected by Category 1 (120 km/h) wind speeds or higher is 0.
+19.7000000004391
+-114.299999999561
+40771
+TC
+Sun, 27 Oct 2013 12:00:00 GMT
+Green alert for tropical cyclone ONE-13. Population affected by Category 1 (120 km/h) wind speeds or higher is 0.
+-13.1000000002186
+62.5
+40921
+TC
+Sun, 20 Oct 2013 18:00:00 GMT
+Green alert for tropical cyclone LEKIMA-13. Population affected by Category 1 (120 km/h) wind speeds or higher is 0.
+36.8999999997814
+152.399999999781
+40785
+TC
+Wed, 16 Oct 2013 12:00:00 GMT
+Green alert for tropical cyclone FRANCISCO-13. Population affected by Category 1 (120 km/h) wind speeds or higher is 0.
+30.2999999995609
+137.399999999781
+40669
+EQ
+Fri, 25 Oct 2013 17:10:16 GMT
+Green earthquake alert (Magnitude 7.1M, Depth:10km) in Japan 25/10/2013 17:10 UTC, No people within 100km.
+37.17
+144.66
+1010022
+EQ
+Thu, 24 Oct 2013 19:25:12 GMT
+Green earthquake alert (Magnitude 6.7M, Depth:26.09km) in East Of South Sandwich Islands 24/10/2013 19:25 UTC, No people within 100km.
+-58.21
+-12.95
+1009923
+TC
+Mon, 21 Oct 2013 21:00:00 GMT
+Green alert for tropical cyclone LORENZO-13. Population affected by Category 1 (120 km/h) wind speeds or higher is 0.
+30.2000000004391
+-47.6000000002186
+40807
+TC
+Sat, 19 Oct 2013 06:00:00 GMT
+Green alert for tropical cyclone TWENTYSEVEN-13. Population affected by Category 1 (120 km/h) wind speeds or higher is 0.
+23.6000000002186
+145.799999999561
+40747
+EQ
+Sat, 19 Oct 2013 17:54:56 GMT
+Green earthquake alert (Magnitude 6.5M, Depth:7.98km) in Mexico 19/10/2013 17:54 UTC, 138368 people within 100km.
+26.27
+-110.18
+1009350
+TC
+Mon, 14 Oct 2013 09:00:00 GMT
+Green alert for tropical cyclone PRISCILLA-13. Population affected by Category 1 (120 km/h) wind speeds or higher is 0.
+18.7000000004391
+-120.899999999781
+40593
+EQ
+Wed, 16 Oct 2013 10:31:00 GMT
+Green earthquake alert (Magnitude 6.8M, Depth:54.06km) in Papua New Guinea 16/10/2013 10:31 UTC, About 97497 people within 100km.
+-6.49
+154.93
+1009046
+TC
+Fri, 11 Oct 2013 00:00:00 GMT
+Green alert for tropical cyclone WIPHA-13. Population affected by Category 1 (120 km/h) wind speeds or higher is 0.1 million.
+32.7000000004391
+138.899999999781
+40511
+TC
+Sun, 13 Oct 2013 09:00:00 GMT
+Green alert for tropical cyclone OCTAVE-13. Population affected by Category 1 (120 km/h) wind speeds or higher is 0.
+25.3999999997814
+-110.799999999561
+40578
+EQ
+Tue, 15 Oct 2013 00:12:32 GMT
+Red earthquake alert (Magnitude 7.1M, Depth:20km) in Philippines 15/10/2013 00:12 UTC, 5600343 people within 100km.
+9.87
+124.01
+1008867
+TC
+Wed, 09 Oct 2013 12:00:00 GMT
+Red alert for tropical cyclone NARI-13. Population affected by Category 1 (120 km/h) wind speeds or higher is 12.2 million.
+15.8999999997814
+108.200000000439
+40482
+FL
+Wed, 07 Aug 2013 00:00:00 GMT
+Orange flood alert in China
+50.532
+130.271
+4083
+FL
+Sat, 12 Oct 2013 00:00:00 GMT
+Green flood alert in India
+24.717
+85.932
+4098
+FL
+Fri, 11 Oct 2013 00:00:00 GMT
+Green flood alert in Peru
+-8.574
+-76.188
+4097
+FL
+Mon, 07 Oct 2013 00:00:00 GMT
+Green flood alert in Indonesia
+2.954
+99.677
+4096
+FL
+Tue, 08 Oct 2013 00:00:00 GMT
+Orange flood alert in China
+29.15
+120.573
+4095
+FL
+Tue, 08 Oct 2013 00:00:00 GMT
+Green flood alert in South Sudan
+7.737
+28.824
+4094
+FL
+Sat, 12 Oct 2013 00:00:00 GMT
+Green flood alert in Philippines
+16.641
+121.192
+4093
+FL
+Mon, 30 Sep 2013 00:00:00 GMT
+Red flood alert in Thailand
+13.081
+101.694
+4092
+FL
+Sat, 12 Oct 2013 00:00:00 GMT
+Orange flood alert in India
+21.271
+84.249
+4091
+FL
+Fri, 27 Sep 2013 00:00:00 GMT
+Orange flood alert in Cambodia
+12.658
+105.084
+4090
+TC
+Wed, 09 Oct 2013 18:00:00 GMT
+Red alert for tropical cyclone PHAILIN-13. Population affected by Category 1 (120 km/h) wind speeds or higher is 5.1 million.
+19.6000000002186
+84.8999999997814
+40489
+TC
+Mon, 07 Oct 2013 03:00:00 GMT
+Green alert for tropical cyclone NARDA-13. Population affected by Category 1 (120 km/h) wind speeds or higher is 0.
+16.2999999995609
+-129.100000000219
+40444
+TC
+Fri, 04 Oct 2013 12:00:00 GMT
+Green alert for tropical cyclone DANAS-13. Population affected by Category 1 (120 km/h) wind speeds or higher is 0.1million.
+34.5
+129.600000000219
+40386
+TC
+Mon, 30 Sep 2013 18:00:00 GMT
+Orange alert for tropical cyclone FITOW-13. Population affected by Category 1 (120 km/h) wind speeds or higher is 10.1million.
+27.3999999997814
+120.299999999561
+40330
+TC
+Thu, 03 Oct 2013 13:00:00 GMT
+Green alert for tropical cyclone KAREN-13. Population affected by Category 1 (120 km/h) wind speeds or higher is 0.
+28.2999999995609
+-91.7000000004391
+40385
+TC
+Mon, 30 Sep 2013 15:00:00 GMT
+Green alert for tropical cyclone JERRY-13. Population affected by Category 1 (120 km/h) wind speeds or higher is 0.
+31.7999999995609
+-38.7000000004391
+40303
+TC
+Mon, 30 Sep 2013 06:00:00 GMT
+Green alert for tropical cyclone SEPAT-13. Population affected by Category 1 (120 km/h) wind speeds or higher is 0.
+33.8999999997814
+141.700000000439
+40323
+TC
+Fri, 27 Sep 2013 12:00:00 GMT
+Orange alert for tropical cyclone WUTIP-13. Population affected by Category 1 (120 km/h) wind speeds or higher is 2.8million.
+17.7999999995609
+105.899999999781
+40266
+EQ
+Mon, 30 Sep 2013 05:55:54 GMT
+Green earthquake alert (Magnitude 6.7M, Depth:34.77km) in Kermadec Islands, New Zealand 30/09/2013 05:55 UTC, No people within 100km.
+-30.96
+-178.24
+1007375
+TC
+Sat, 21 Sep 2013 06:00:00 GMT
+Green alert for tropical cyclone PABUK-13. Population affected by Category 1 (120 km/h) wind speeds or higher is 0.
+33.8999999997814
+145.5
+40160
+EQ
+Wed, 25 Sep 2013 16:42:43 GMT
+Green earthquake alert (Magnitude 6.6M, Depth:39.44km) in Peru 25/09/2013 16:42 UTC, About 40944 people within 100km.
+-15.86
+-74.55
+1006869
+TC
+Tue, 17 Sep 2013 00:00:00 GMT
+Red alert for tropical cyclone USAGI-13. Population affected by Category 1 (120 km/h) wind speeds or higher is 38million.
+22.8999999997814
+115.200000000439
+40084
+FL
+Thu, 12 Sep 2013 00:00:00 GMT
+Green flood alert in USA
+38.002
+-105.143
+4089
+TC
+Mon, 09 Sep 2013 09:00:00 GMT
+Green alert for tropical cyclone HUMBERTO-13. Population affected by Category 1 (120 km/h) wind speeds or higher is 0.
+32.7999999995609
+-43.2999999995609
+39934
+TC
+Fri, 13 Sep 2013 21:00:00 GMT
+Orange alert for tropical cyclone MANUEL-13. Population affected by Category 1 (120 km/h) wind speeds or higher is 0.1million.
+25
+-107.799999999561
+40022
+TC
+Wed, 18 Sep 2013 06:00:00 GMT
+Green alert for tropical cyclone EIGHTEEN-13. Population affected by Category 1 (120 km/h) wind speeds or higher is 0.
+16.2999999995609
+108.100000000219
+40111
+FL
+Tue, 10 Sep 2013 00:00:00 GMT
+Green flood alert in Nigeria
+10.524
+7.637
+4088
+FL
+Wed, 11 Sep 2013 00:00:00 GMT
+Green flood alert in Romania
+45.749
+27.552
+4087
+TC
+Fri, 13 Sep 2013 15:00:00 GMT
+Green alert for tropical cyclone INGRID-13. Population affected by Category 1 (120 km/h) wind speeds or higher is 17000.
+23.7000000004391
+-99
+40008
+TC
+Fri, 13 Sep 2013 00:00:00 GMT
+Green alert for tropical cyclone MAN-YI-13. Population affected by Category 1 (120 km/h) wind speeds or higher is 0.
+35.2999999995609
+137.899999999781
+40006
+TC
+Thu, 05 Sep 2013 03:00:00 GMT
+Green alert for tropical cyclone GABRIELLE-13. Population affected by Category 1 (120 km/h) wind speeds or higher is 0.
+39.1000000002186
+-66.5
+39856
+TC
+Thu, 05 Sep 2013 21:00:00 GMT
+Green alert for tropical cyclone LORENA-13. Population affected by Category 1 (120 km/h) wind speeds or higher is 0.
+24.2999999995609
+-112.100000000219
+39870
+TC
+Fri, 06 Sep 2013 18:30:00 GMT
+Green alert for tropical cyclone EIGHT-13. Population affected by Category 1 (120 km/h) wind speeds or higher is 0.
+21.3999999997814
+-99.2999999995609
+39899
+EQ
+Sat, 07 Sep 2013 00:13:29 GMT
+Orange earthquake alert (Magnitude 6.6M, Depth:67km) in Guatemala 07/09/2013 00:13 UTC, 3929444 people within 100km.
+14.6435
+-92.1042
+1004794
+EQ
+Wed, 04 Sep 2013 02:32:33 GMT
+Green earthquake alert (Magnitude 6.5M, Depth:39.9km) in United States 04/09/2013 02:32 UTC, About 188 people within 100km.
+51.5917
+-174.7596
+1004527
+EQ
+Wed, 04 Sep 2013 00:18:24 GMT
+Green earthquake alert (Magnitude 6.5M, Depth:404.8km) in Japan 04/09/2013 00:18 UTC, No people within 100km.
+29.9862
+138.8108
+1004517
+TC
+Mon, 02 Sep 2013 00:00:00 GMT
+Green alert for tropical cyclone TORAJI-13. Population affected by Category 1 (120 km/h) wind speeds or higher is 0.
+32.3999999997814
+132.299999999561
+39782
+TC
+Sat, 31 Aug 2013 21:00:00 GMT
+Green alert for tropical cyclone KIKO-13. Population affected by Category 1 (120 km/h) wind speeds or higher is 0.
+22.8999999997814
+-116.600000000219
+39765
+EQ
+Sun, 01 Sep 2013 11:52:32 GMT
+Green earthquake alert (Magnitude 6.5M, Depth:132.1km) in Indonesia 01/09/2013 11:52 UTC, About 31251 people within 100km.
+-7.5418
+128.278
+1004210
+TC
+Mon, 26 Aug 2013 12:00:00 GMT
+Green alert for tropical cyclone KONG-REY-13. Population affected by Category 1 (120 km/h) wind speeds or higher is 0.
+33.6000000002186
+129.5
+39673
+EQ
+Fri, 30 Aug 2013 16:25:02 GMT
+Green earthquake alert (Magnitude 7M, Depth:33.5km) in United States 30/08/2013 16:25 UTC, No people within 100km.
+51.6096
+-175.3611
+1004024
+TC
+Wed, 28 Aug 2013 21:00:00 GMT
+Green alert for tropical cyclone JULIETTE-13. Population affected by Category 1 (120 km/h) wind speeds or higher is 0.
+26.7000000004391
+-114.799999999561
+39726
+TC
+Sun, 25 Aug 2013 23:00:00 GMT
+Green alert for tropical cyclone FERNAND-13. Population affected by Category 1 (120 km/h) wind speeds or higher is 0.
+20.2999999995609
+-97.7000000004391
+39669
+TC
+Fri, 23 Aug 2013 15:00:00 GMT
+Green alert for tropical cyclone IVO-13. Population affected by Category 1 (120 km/h) wind speeds or higher is 0.
+25.7000000004391
+-115.200000000439
+39613
+TC
+Fri, 16 Aug 2013 15:00:00 GMT
+Green alert for tropical cyclone PEWA-13. Population affected by Category 1 (120 km/h) wind speeds or higher is 0.
+28.5
+166.700000000439
+39505
+FL
+Thu, 01 Aug 2013 00:00:00 GMT
+Orange flood alert in Sudan
+13.688
+28.989
+4077
+FL
+Thu, 15 Aug 2013 00:00:00 GMT
+Green flood alert in China
+22.769
+113.694
+4086
+FL
+Sun, 18 Aug 2013 00:00:00 GMT
+Green flood alert in China
+35.916
+100.184
+4085
+FL
+Tue, 13 Aug 2013 00:00:00 GMT
+Orange flood alert in Philippines
+16.319
+121.142
+4084
+FL
+Wed, 07 Aug 2013 00:00:00 GMT
+Green flood alert in Pakistan
+28.74
+69.106
+4082
+TC
+Sun, 18 Aug 2013 06:00:00 GMT
+Orange alert for tropical cyclone TRAMI-13. Population affected by Category 1 (120 km/h) wind speeds or higher is 8.6million.
+25.6000000002186
+119.600000000219
+39519
+TC
+Tue, 20 Aug 2013 18:00:00 GMT
+Green alert for tropical cyclone THREE-13. Population affected by Category 1 (120 km/h) wind speeds or higher is 0.
+19.7999999995609
+179.799999999561
+39568
+TC
+Mon, 19 Aug 2013 03:00:00 GMT
+Green alert for tropical cyclone UNALA-13. Population affected by Category 1 (120 km/h) wind speeds or higher is 0.
+17.2999999995609
+178.799999999561
+39558
+TC
+Thu, 15 Aug 2013 15:00:00 GMT
+Green alert for tropical cyclone ERIN-13. Population affected by Category 1 (120 km/h) wind speeds or higher is 0.
+20.3999999997814
+-39.7999999995609
+39480
+TC
+Sat, 17 Aug 2013 00:00:00 GMT
+Green alert for tropical cyclone THIRTEEN-13. Population affected by Category 1 (120 km/h) wind speeds or higher is 0.
+27.8999999997814
+126.5
+39520
+TC
+Fri, 09 Aug 2013 18:00:00 GMT
+Red alert for tropical cyclone UTOR-13. Population affected by Category 1 (120 km/h) wind speeds or higher is 14.1million.
+22
+111.399999999781
+39372
+EQ
+Tue, 13 Aug 2013 15:43:14 GMT
+Green earthquake alert (Magnitude 6.6M, Depth:10km) in Colombia 13/08/2013 15:43 UTC, About 6779 people within 100km.
+5.7566
+-78.1997
+1002196
+TC
+Sun, 04 Aug 2013 15:00:00 GMT
+Green alert for tropical cyclone HENRIETTE-13. Population affected by Category 1 (120 km/h) wind speeds or higher is 0.
+13.5
+-158.5
+39276
+FL
+Thu, 25 Jul 2013 00:00:00 GMT
+Green flood alert in Burma/Myanmar
+18.312
+98.155
+4081
+FL
+Mon, 05 Aug 2013 00:00:00 GMT
+Green flood alert in USA
+38.213
+-94.154
+4080
+FL
+Thu, 01 Aug 2013 00:00:00 GMT
+Green flood alert in Russia
+50.004
+128.424
+4079
+FL
+Thu, 01 Aug 2013 00:00:00 GMT
+Orange flood alert in Pakistan
+32.814
+70.637
+4078
+FL
+Mon, 05 Aug 2013 00:00:00 GMT
+Green flood alert in Kenya
+1.66
+35.208
+4076
+TC
+Tue, 06 Aug 2013 12:00:00 GMT
+Green alert for tropical cyclone MANGKHUT-13. Population affected by Category 1 (120 km/h) wind speeds or higher is 0.
+19.8999999997814
+105.200000000439
+39320
+TC
+Tue, 30 Jul 2013 21:00:00 GMT
+Green alert for tropical cyclone GIL-13. Population affected by Category 1 (120 km/h) wind speeds or higher is 0.
+13.5
+-142.5
+39211
+TC
+Wed, 24 Jul 2013 15:00:00 GMT
+Green alert for tropical cyclone DORIAN-13. Population affected by Category 1 (120 km/h) wind speeds or higher is 0.
+31.7000000004391
+-77.6000000002186
+39074
+TC
+Wed, 31 Jul 2013 06:00:00 GMT
+Orange alert for tropical cyclone JEBI-13. Population affected by Category 1 (120 km/h) wind speeds or higher is 0.
+21.7999999995609
+106.399999999781
+39225
+TC
+Thu, 25 Jul 2013 09:00:00 GMT
+Green alert for tropical cyclone FLOSSIE-13. Population affected by Category 1 (120 km/h) wind speeds or higher is 0.
+22.2000000004391
+-158.299999999561
+39097
+EQ
+Sun, 21 Jul 2013 05:09:31 GMT
+Green earthquake alert (Magnitude 6.5M, Depth:14km) in New Zealand 21/07/2013 05:09 UTC, No people within 100km.
+-41.7419
+174.447
+1000580
+EQ
+Fri, 19 Jul 2013 01:11:36 GMT
+Green earthquake alert (Magnitude 6.5M, Depth:8km) in Iceland 19/07/2013 01:11 UTC, About 27991 people within 100km.
+66.25
+-16.73
+1000554
+TC
+Wed, 17 Jul 2013 06:00:00 GMT
+Green alert for tropical cyclone CIMARON-13. Population affected by Category 1 (120 km/h) wind speeds or higher is 0.
+23.5
+117.100000000219
+38918
+FL
+Sun, 23 Jun 2013 00:00:00 GMT
+Red flood alert in India
+27.387
+94.918
+4069
+FL
+Sun, 23 Jun 2013 00:00:00 GMT
+Red flood alert in India
+27.387
+94.918
+4069
+FL
+Thu, 04 Jul 2013 00:00:00 GMT
+Green flood alert in Paraguay
+-24.146
+-57.654
+4075
+FL
+Wed, 10 Jul 2013 00:00:00 GMT
+Green flood alert in North Korea
+39.615
+126.319
+4074
